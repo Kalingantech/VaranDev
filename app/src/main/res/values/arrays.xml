@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Strings used for mcreator -->
+    <string-array name="creator_array">
+        <item>Profile created by</item>
+        <item>self</item>
+        <item>Parents</item>
+        <item>Sibling</item>
+        <item>Relative</item>
+        <item>Friend</item>
+    </string-array>
+    <!-- Strings used for mcreator-->
+
+    <!-- Strings used for gender -->
+    <string-array name="gender_array">
+        <item>Select gender status</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <!-- Strings used for gender-->
+
+
+
+    <!-- Strings used for age -->
+    <string-array name="age_array">
+        <item>Select age</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item><item>55</item><item>56</item><item>57</item><item>58</item>
+    </string-array>
+    <!-- Strings used for age-->
+
+
+    <!-- Strings used for mstatus -->
+    <string-array name="mstatus_array">
+        <item>Select marriage status</item>
+        <item>unmarried</item>
+        <item>Divorced</item>
+        <item>widow</item>
+    </string-array>
+    <!-- Strings used for mstatus-->
+
+    <!-- Strings used for height -->
+    <string-array name="height_array">
+        <item>Select height</item>
+        <item>121 cm/4ft</item>
+        <item>127 cm/4ft 2in</item>
+        <item>129 cm/4ft 3in</item>
+        <item>124 cm/4ft 1in</item>
+        <item>132 cm/4ft 4in</item>
+        <item>134 cm/4ft 5in</item>
+        <item>137 cm/4ft 6in</item>
+        <item>139 cm/4ft 7in</item>
+        <item>139 cm/4ft 8in</item>
+        <item>144 cm/4ft 9in</item>
+        <item>147 cm/4ft 10in</item>
+        <item>149 cm/4ft 11in</item>
+        <item>152 cm/5ft</item>
+        <item>154 cm/5ft 1in</item>
+        <item>157 cm/5ft 2in</item>
+        <item>160 cm/5ft 3in</item>
+        <item>162 cm/5ft 4in</item>
+        <item>165 cm/5ft 5in</item>
+        <item>168 cm/5ft 6in</item>
+        <item>170 cm/5ft 7in</item>
+        <item>172 cm/5ft 8in</item>
+        <item>175 cm/5ft 9in</item>
+        <item>177 cm/5ft 10in</item>
+        <item>180 cm/5ft 11in</item>
+        <item>182 cm/6ft</item>
+        <item>185 cm/6ft 1in</item>
+        <item>187 cm/6ft 2in</item>
+        <item>190 cm/6ft 3in</item>
+        <item>193 cm/6ft 4in</item>
+        <item>195 cm/6ft 5in</item>
+        <item>198 cm/6ft 6in</item>
+        <item>200 cm/6ft 7in</item>
+        <item>203 cm/6ft 8in</item>
+        <item>205 cm/6ft 9in</item>
+        <item>208 cm/6ft 10in</item>
+        <item>210 cm/6ft 11in</item>
+        <item>213 cm/7ft</item>
+        <item>215 cm/7ft 1in</item>
+        <item>218 cm/7ft 2in</item>
+        <item>221 cm/7ft 3in</item>
+        <item>223 cm/7ft 4in</item>
+        <item>226 cm/7ft 5in</item>
+        <item>228 cm/7ft 6in</item>
+        <item>231 cm/7ft 7in</item>
+    </string-array>
+    <!-- Strings used for height-->
+
+    <!-- Strings used for weight -->
+    <string-array name="weight_array">
+        <item>Select your weight</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+        <item>88</item>
+        <item>89</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>96</item>
+        <item>97</item>
+        <item>98</item>
+        <item>99</item>
+        <item>100</item>
+
+    </string-array>
+    <!-- Strings used for weight-->
+
+
+    <!-- Strings used for Body type -->
+    <string-array name="body_type_array">
+        <item>Select your body type</item>
+        <item>slim</item>
+        <item>Athletic</item>
+        <item>Average</item>
+        <item>Large</item>
+    </string-array>
+    <!-- Strings used for Body type-->
+
+
+    <!-- Strings used for Education -->
+    <string-array name="Education_array">
+        <item>Select your Education</item>
+        <item>Other</item>
+        <item>BE</item>
+        <item>B.Tech</item>
+        <item>BA</item>
+        <item>B.com</item>
+        <item>B.Des</item>
+        <item>B.Ed</item>
+        <item>B.M.M</item>
+        <item>B.Phil</item>
+        <item>B.S.W</item>
+        <item>B.Sc</item>
+        <item>BFA</item>
+        <item>BFT</item>
+        <item>BLIS</item>
+        <item>B.Arch</item>
+        <item>B.S(Engineering)</item>
+        <item>B.Sc IT/CS</item>
+        <item>B.L.</item>
+        <item>BGL</item>
+        <item>LL.B.</item>
+        <item>BBA</item>
+        <item>BFM(Financial Management)</item>
+        <item>BHA/BHM(Hospital Administration)</item>
+        <item>BHM(Hotel Management)</item>
+        <item>B.A.M.S</item>
+        <item>BDS</item>
+        <item>BHMS</item>
+        <item>BSMS</item>
+        <item>BUMS</item>
+        <item>Diploma</item>
+        <item>Polytechnic</item>
+        <item>Higher Secondary(12th)</item>
+        <item>High school(10th)</item>
+        <item>B.Sc Nursing</item>
+        <item>Other Bachelor Degree in Arts</item>
+        <item>BPharm</item>
+        <item>MPharm</item>
+        <item>MBBS</item>
+        <item>MDS</item>
+        <item>MD/MS(Medical)</item>
+        <item>MA</item>
+        <item>M.Des</item>
+        <item>M.Ed.</item>
+        <item>M.Phil</item>
+        <item>M.Sc</item>
+        <item>MCom</item>
+        <item>MFA</item>
+        <item>MLIS</item>
+        <item>MSW</item>
+        <item>Other Master Degree in Arts</item>
+        <item>M.Arch</item>
+        <item>M.S.(Engineering)</item>
+        <item>M.Sc IT/CS</item>
+        <item>MCA</item>
+        <item>ME</item>
+        <item>M.L.</item>
+        <item>MBA</item>
+        <item>MFM(Financial Management)</item>
+        <item>MHA/MHM(Hospital Administration)</item>
+        <item>MHM(Hotel Management)</item>
+    </string-array>
+    <!-- Strings used for Education-->
+
+    <!-- Strings used for Employment -->
+    <string-array name="Employment_array">
+        <item>Select Employment type</item>
+        <item>Goverment</item>
+        <item>Private</item>
+        <item>Defence</item>
+        <item>Self Employed</item>
+        <item>Business</item>
+        <item>Not working</item>
+    </string-array>
+    <!-- Strings used for Employment-->
+
+
+
+
+    <!-- Strings used for Job -->
+    <string-array name="Occupation_array">
+        <item>Select your Occupation type</item>
+        <item>Other</item>
+        <item>Manager</item>
+        <item>Supervisor</item>
+        <item>Officer</item>
+        <item>Admin</item>
+        <item>Executive</item>
+        <item>Clerk</item>
+        <item>Secretory</item>
+        <item>Agriculture</item>
+        <item>Banking professional</item>
+        <item>Finance professional</item>
+        <item>Chartered Accountant</item>
+        <item>Auditor</item>
+        <item>Accountant</item>
+        <item>Fashion Designer</item>
+        <item>Beautician</item>
+        <item>BPO/KPO/ITes Professional</item>
+        <item>Civil services(IAS/IPS/IFS/IES/IRS/other)</item>
+        <item>Sales Professional</item>
+        <item>Marketing Professional</item>
+        <item>Manager</item>
+        <item>Senior Manager</item>
+        <item>Army</item>
+        <item>Navy</item>
+        <item>Defence(other)</item>
+        <item>Police</item>
+        <item>Paramilitary</item>
+        <item>Teacher</item>
+        <item>Professor</item>
+        <item>Lecturer</item>
+        <item>Research Assistant/Scholar</item>
+        <item>Mechanical Engineer</item>
+        <item>Civil Engineer</item>
+        <item>Electronics Engineer</item>
+        <item>Software Engineer</item>
+        <item>Engineer(Non-IT)</item>
+        <item>Engineer(IT)</item>
+        <item>Quality Engineer</item>
+        <item>Project Manager</item>
+        <item>Healthcare Professional</item>
+        <item>Paramedical Professional</item>
+        <item>Nurse</item>
+        <item>Pharmacist</item>
+        <item>Therapist</item>
+        <item>Medical Representative</item>
+        <item>Doctor(Private)</item>
+        <item>Doctor(Govt)</item>
+        <item>Dentist</item>
+        <item>Veterinary Doctor</item>
+        <item>Media Professional</item>
+        <item>Scientist/Researcher</item>
+        <item>Security</item>
+        <item>Politician</item>
+        <item>Driver</item>
+        <item>Freelancer</item>
+        <item>Mechanic</item>
+        <item>Private office</item>
+    </string-array>
+    <!-- Strings used for Job-->
+
+    <!-- Strings used for Salary -->
+    <string-array name="Salary_array">
+        <item>Select Salary range</item>
+        <item>Not working</item>
+        <item>Below 10000</item>
+        <item>10000 - 20000</item>
+        <item>20000 - 40000</item>
+        <item>40000 - 50000</item>
+        <item>50000 - 70000</item>
+        <item>70000 - 90000</item>
+        <item>90000 - 1L</item>
+        <item>1L - 1.5L</item>
+        <item>1.5L - 2L</item>
+        <item>Above 2L</item>
+    </string-array>
+    <!-- Strings used for Salary-->
+
+
+    <!-- Strings used for Nakshatram -->
+    <string-array name="Nakshatram_array">
+        <item>Select your Nakshatram</item>
+        <item>அஸ்வினி-Ashwini</item>
+        <item>பரணி-Bharani</item>
+        <item>கார்த்திகை-Krittika</item>
+        <item>ரோகிணி-Rohini</item>
+        <item>மிருகசீரிஷம்-Mrigashira</item>
+        <item>திருவாதிரை-Thiruvatharai</item>
+        <item>புனர்பூசம்-Punarpoosa</item>
+        <item>பூசம்-Poosam</item>
+        <item>ஆயில்யம்-Ayilam</item>
+        <item>மகம்-Makam</item>
+        <item>பூரம்-Pooram</item>
+        <item>உத்திரம்-Uthiram</item>
+        <item>அஸ்தம்-Hastham</item>
+        <item>சித்திரை-Chithirai</item>
+        <item>சுவாதி-Swathi</item>
+        <item>விசாகம்-Visakam</item>
+        <item>அனுஷம்-Anusham</item>
+        <item>கேட்டை-Kettai</item>
+        <item>மூலம்-Moolam</item>
+        <item>பூராடம்-Pooradam</item>
+        <item>உத்திராடம்-Uthiradam</item>
+        <item>திருவோணம்-Thiruvonam</item>
+        <item>அவிட்டம்-Avittam</item>
+        <item>சதயம்-Sadhayam</item>
+        <item>பூரட்டாதி-Puratathi</item>
+        <item>உத்திரட்டாதி-Uthirattathi</item>
+        <item>ரேவதி-Revathi</item>
+    </string-array>
+    <!-- Strings used for Nakshatram-->
+
+    <!-- Strings used for Rasi -->
+    <string-array name="Rasi_array">
+        <item>Select your rasi</item>
+        <item>மேஷம்-Mesham</item>
+        <item>ரிஷபம்-Rishabam</item>
+        <item>மிதுனம்-Mithunam</item>
+        <item>கடகம்-Katagam</item>
+        <item>சிம்மம்-Simham</item>
+        <item>கன்னி-Kanni</item>
+        <item>துலாம்-Tulam</item>
+        <item>விருச்சிகம்-Vrischigam</item>
+        <item>தனுசு-Dhanus</item>
+        <item>மகரம்-Makaram</item>
+        <item>கும்பம்-Kumbham</item>
+        <item>மீனம்-Meenam</item>
+    </string-array>
+    <!-- Strings used for Rasi-->
+
+    <!-- Strings used for Dosham -->
+    <string-array name="Dosham_array">
+        <item>Select your Dosham</item>
+        <item>No Dosham</item>
+        <item>செவ்வாய்-Chevvai Dosham</item>
+        <item>பரிகாரசெவ்வாய்-Pariharachevvai Dosham</item>
+        <item>நாக-Naga Dosham</item>
+        <item>கால சர்ப்ப-KalaSarpa Dosham</item>
+        <item>ராகு-Rahu Dosham</item>
+        <item>கேது-Kethu Dosham</item>
+        <item>களத்திர-Kalathra Dosham</item>
+    </string-array>
+    <!-- Strings used for Dosham-->
+
+    <!-- Strings used for Day -->
+    <string-array name="Day_array">
+        <item>Select your Day</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <!-- Strings used for Day-->
+
+
+    <!-- Strings used for Family type -->
+    <string-array name="Family_type_array">
+        <item>Select your Family type</item>
+        <item>Joint Family</item>
+        <item>Nuclear Family</item>
+        <item>Other</item>
+    </string-array>
+    <!-- Strings used for Family type-->
+
+    <!-- Strings used for Family Status -->
+    <string-array name="Family_status_array">
+        <item>Select your Family status</item>
+        <item>Middle Class</item>
+        <item>Upper-Middle Class</item>
+        <item>High Class</item>
+        <item>Rich</item>
+        <item>Other</item>
+    </string-array>
+    <!-- Strings used for Family Status-->
+
+    <!-- Strings used for Father Occupation -->
+    <string-array name="Father_occupation_array">
+        <item>Select your Father occupation</item>
+        <item>Employed</item>
+        <item>Business</item>
+        <item>Retired</item>
+        <item>Not Employed</item>
+        <item>Passed Away</item>
+    </string-array>
+    <!-- Strings used for Father Occupation-->
+
+    <!-- Strings used for Mother Occupation -->
+    <string-array name="Mother_occupation_array">
+        <item>Select your Mother occupation</item>
+        <item>HouseWife</item>
+        <item>Employed</item>
+        <item>Business</item>
+        <item>Retired</item>
+        <item>Not Employed</item>
+        <item>Passed Away</item>
+    </string-array>
+    <!-- Strings used for Father Occupation-->
+
+    <!-- Strings used for Brothers -->
+    <string-array name="Brothers_array">
+        <item>No of Brothers</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <!-- Strings used for Brothers-->
+
+    <!-- Strings used for Brothers Married -->
+    <string-array name="Brothers_married_array">
+        <item>No of Brothers Married</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <!-- Strings used for Brothers Married-->
+
+    <!-- Strings used for Sisters -->
+    <string-array name="Sisters_array">
+        <item>No of Sisters</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <!-- Strings used for Sisters-->
+
+    <!-- Strings used for Sisters Married -->
+    <string-array name="Sisters_married_array">
+        <item>No of Sisters Married</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <!-- Strings used for Sisters Married-->
+
+    <!-- Strings used for Eating habits -->
+    <string-array name="Eating_habits_array">
+        <item>Select your Eating habits</item>
+        <item>Vegetarian</item>
+        <item>Non-Vegetarian</item>
+        <item>Eggetarian</item>
+    </string-array>
+    <!-- Strings used for Eating habits-->
+
+    <!-- Strings used for Drinking habits -->
+    <string-array name="Drinking_habits_array">
+        <item>Select your Drinking habits</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>Social</item>
+        <item>Occasionally</item>
+    </string-array>
+    <!-- Strings used for Drinking habits-->
+
+    <!-- Strings used for Smoking habits -->
+    <string-array name="Smoking_habits_array">
+        <item>Select your Smoking habits</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>Occasionally</item>
+        <item>Chain smoker</item>
+    </string-array>
+    <!-- Strings used for Smoking habits-->
+
+    <!-- Strings used for country/state/city-->
+    <string-array name="array_country">
+        <item>Select Your country</item>
+        <item>India</item>
+        <item>Singapore</item>
+        <item>Sri lanka</item>
+        <item>Malaysia</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="array_default_country">
+        <item>Select Your State</item>
+    </string-array>
+    <string-array name="array_India">
+        <item>Select Your State</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Chhattisgarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Ladakh</item>
+        <item>Lakshadweep</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Orissa</item>
+        <item>Puducherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttarakhand</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+    </string-array>
+    <string-array name="array_Singapore">
+        <item>Select Your State</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="array_Srilanka">
+        <item>Select Your State</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="array_Malaysia">
+        <item>Select Your State</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="array_other_country">
+        <item>Select Your State</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_indian_states">
+        <item>Select Your State</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Chhattisgarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Ladakh</item>
+        <item>Lakshadweep</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Orissa</item>
+        <item>Puducherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttarakhand</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+    </string-array>
+    <string-array name="array_default_districts">
+        <item>Select Your District</item>
+    </string-array>
+
+    <string-array name="array_other_city">
+        <item>Select Your city</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="array_andhra_pradesh_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_arunachal_pradesh_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_assam_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_bihar_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_chhattisgarh_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_goa_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_gujarat_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_haryana_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_himachal_pradesh_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_jammu_kashmir_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_jharkhand_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_karnataka_districts">
+        <item>Select Your District</item>
+        <item>Bagalkot</item>
+        <item>Bangalore Rural</item>
+        <item>Bangalore Urban</item>
+        <item>Belgaum</item>
+        <item>Bellary</item>
+        <item>Bidar</item>
+        <item>Chamarajanagar</item>
+        <item>Chikkaballapur</item>
+        <item>Chikkamagaluru</item>
+        <item>Chitradurga</item>
+        <item>Dakshina Kannada</item>
+        <item>Davanagere</item>
+        <item>Dharwad</item>
+        <item>Gadag</item>
+        <item>Gulbarga</item>
+        <item>Hassan</item>
+        <item>Haveri</item>
+        <item>Kodagu</item>
+        <item>Kolar</item>
+        <item>Koppal</item>
+        <item>Mandya</item>
+        <item>Mysore</item>
+        <item>Raichur</item>
+        <item>Ramanagara</item>
+        <item>Shimoga</item>
+        <item>Tumkur</item>
+        <item>Udupi</item>
+        <item>Uttara Kannada</item>
+        <item>Vijayanagara</item>
+        <item>Vijayapura</item>
+        <item>Yadgir</item>
+    </string-array>
+
+    <string-array name="array_kerala_districts">
+        <item>Select Your District</item>
+        <item>Alappuzha</item>
+        <item>Ernakulam</item>
+        <item>Idukki</item>
+        <item>Kannur</item>
+        <item>Kasaragod</item>
+        <item>Kollam</item>
+        <item>Kottayam</item>
+        <item>Kozhikode</item>
+        <item>Malappuram</item>
+        <item>Palakkad</item>
+        <item>Pathanamthitta</item>
+        <item>Thiruvananthapuram</item>
+        <item>Thrissur</item>
+        <item>Wayanad</item>
+    </string-array>
+
+    <string-array name="array_madhya_pradesh_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_maharashtra_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_manipur_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_meghalaya_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_mizoram_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_nagaland_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_odisha_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_punjab_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_rajasthan_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_sikkim_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_tamil_nadu_districts">
+        <item>Select Your District</item>
+        <item>Ariyalur</item>
+        <item>Chengalpattu</item>
+        <item>Chennai</item>
+        <item>Coimbatore</item>
+        <item>Cuddalore</item>
+        <item>Dharmapuri</item>
+        <item>Dindigul</item>
+        <item>Erode</item>
+        <item>Kallakurichi</item>
+        <item>Kanchipuram</item>
+        <item>Kanyakumari</item>
+        <item>Karur</item>
+        <item>Krishnagiri</item>
+        <item>Madurai</item>
+        <item>Mayiladuthurai</item>
+        <item>Nagapattinam</item>
+        <item>Namakkal</item>
+        <item>Nilgiris</item>
+        <item>Perambalur</item>
+        <item>Pudukkottai</item>
+        <item>Ramanathapuram</item>
+        <item>Ranipet</item>
+        <item>Salem</item>
+        <item>Sivaganga</item>
+        <item>Tenkasi</item>
+        <item>Thanjavur</item>
+        <item>Theni</item>
+        <item>Thoothukudi</item>
+        <item>Tiruchirappalli</item>
+        <item>Tirunelveli</item>
+        <item>Tirupattur</item>
+        <item>Tiruppur</item>
+        <item>Tiruvallur</item>
+        <item>Tiruvannamalai</item>
+        <item>Tiruvarur</item>
+        <item>Vellore</item>
+        <item>Viluppuram</item>
+        <item>Virudhunagar</item>
+    </string-array>
+
+    <string-array name="array_telangana_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_tripura_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_uttar_pradesh_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_uttarakhand_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_west_bengal_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_andaman_nicobar_districts">
+        <item>Select Your District</item>
+        <item>Nicobar</item>
+        <item>North Middle Andaman</item>
+        <item>South Andaman</item>
+    </string-array>
+
+    <string-array name="array_chandigarh_districts">
+        <item>Select Your District</item>
+        <item>Chandigarh</item>
+    </string-array>
+
+    <string-array name="array_dadra_nagar_haveli_districts">
+        <item>Select Your District</item>
+        <item>Dadra Nagar Haveli</item>
+    </string-array>
+
+    <string-array name="array_daman_diu_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_delhi_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_lakshadweep_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_ladakh_districts">
+        <item>Select Your District</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="array_puducherry_districts">
+        <item>Select Your District</item>
+        <item>Karaikal</item>
+        <item>Mahe</item>
+        <item>Puducherry</item>
+        <item>Yanam</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!--      Seach/filter page        -->
+
+    <!-- Strings used for mstatus -->
+    <string-array name="search_mstatus_array">
+        <item>unmarried</item>
+        <item>Divorced</item>
+        <item>widow</item>
+    </string-array>
+    <!-- Strings used for mstatus-->
+    <!-- Strings used for min age -->
+
+    <string-array name="age_min_array">
+        <item>23</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item><item>55</item><item>56</item><item>57</item><item>58</item>
+    </string-array>
+    <!-- Strings used for age-->
+
+
+    <!-- Strings used for max age -->
+    <string-array name="age_max_array">
+        <item>28</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item><item>55</item><item>56</item><item>57</item><item>58</item>
+    </string-array>
+    <!-- Strings used for age-->
+
+    <!-- Strings used for min height -->
+    <string-array name="height_min_array">
+        <item>152 cm/5ft</item>
+        <item>121 cm/4ft</item>
+        <item>127 cm/4ft 2in</item>
+        <item>129 cm/4ft 3in</item>
+        <item>124 cm/4ft 1in</item>
+        <item>132 cm/4ft 4in</item>
+        <item>134 cm/4ft 5in</item>
+        <item>137 cm/4ft 6in</item>
+        <item>139 cm/4ft 7in</item>
+        <item>139 cm/4ft 8in</item>
+        <item>144 cm/4ft 9in</item>
+        <item>147 cm/4ft 10in</item>
+        <item>149 cm/4ft 11in</item>
+        <item>152 cm/5ft</item>
+        <item>154 cm/5ft 1in</item>
+        <item>157 cm/5ft 2in</item>
+        <item>160 cm/5ft 3in</item>
+        <item>162 cm/5ft 4in</item>
+        <item>165 cm/5ft 5in</item>
+        <item>168 cm/5ft 6in</item>
+        <item>170 cm/5ft 7in</item>
+        <item>172 cm/5ft 8in</item>
+        <item>175 cm/5ft 9in</item>
+        <item>177 cm/5ft 10in</item>
+        <item>180 cm/5ft 11in</item>
+        <item>182 cm/6ft</item>
+        <item>185 cm/6ft 1in</item>
+        <item>187 cm/6ft 2in</item>
+        <item>190 cm/6ft 3in</item>
+        <item>193 cm/6ft 4in</item>
+        <item>195 cm/6ft 5in</item>
+        <item>198 cm/6ft 6in</item>
+        <item>200 cm/6ft 7in</item>
+        <item>203 cm/6ft 8in</item>
+        <item>205 cm/6ft 9in</item>
+        <item>208 cm/6ft 10in</item>
+        <item>210 cm/6ft 11in</item>
+        <item>213 cm/7ft</item>
+        <item>215 cm/7ft 1in</item>
+        <item>218 cm/7ft 2in</item>
+        <item>221 cm/7ft 3in</item>
+        <item>223 cm/7ft 4in</item>
+        <item>226 cm/7ft 5in</item>
+        <item>228 cm/7ft 6in</item>
+        <item>231 cm/7ft 7in</item>
+    </string-array>
+    <!-- Strings used for min height-->
+
+    <!-- Strings used for max height -->
+    <string-array name="height_max_array">
+        <item>175 cm/5ft 9in</item>
+        <item>121 cm/4ft</item>
+        <item>127 cm/4ft 2in</item>
+        <item>129 cm/4ft 3in</item>
+        <item>124 cm/4ft 1in</item>
+        <item>132 cm/4ft 4in</item>
+        <item>134 cm/4ft 5in</item>
+        <item>137 cm/4ft 6in</item>
+        <item>139 cm/4ft 7in</item>
+        <item>139 cm/4ft 8in</item>
+        <item>144 cm/4ft 9in</item>
+        <item>147 cm/4ft 10in</item>
+        <item>149 cm/4ft 11in</item>
+        <item>152 cm/5ft</item>
+        <item>154 cm/5ft 1in</item>
+        <item>157 cm/5ft 2in</item>
+        <item>160 cm/5ft 3in</item>
+        <item>162 cm/5ft 4in</item>
+        <item>165 cm/5ft 5in</item>
+        <item>168 cm/5ft 6in</item>
+        <item>170 cm/5ft 7in</item>
+        <item>172 cm/5ft 8in</item>
+        <item>175 cm/5ft 9in</item>
+        <item>177 cm/5ft 10in</item>
+        <item>180 cm/5ft 11in</item>
+        <item>182 cm/6ft</item>
+        <item>185 cm/6ft 1in</item>
+        <item>187 cm/6ft 2in</item>
+        <item>190 cm/6ft 3in</item>
+        <item>193 cm/6ft 4in</item>
+        <item>195 cm/6ft 5in</item>
+        <item>198 cm/6ft 6in</item>
+        <item>200 cm/6ft 7in</item>
+        <item>203 cm/6ft 8in</item>
+        <item>205 cm/6ft 9in</item>
+        <item>208 cm/6ft 10in</item>
+        <item>210 cm/6ft 11in</item>
+        <item>213 cm/7ft</item>
+        <item>215 cm/7ft 1in</item>
+        <item>218 cm/7ft 2in</item>
+        <item>221 cm/7ft 3in</item>
+        <item>223 cm/7ft 4in</item>
+        <item>226 cm/7ft 5in</item>
+        <item>228 cm/7ft 6in</item>
+        <item>231 cm/7ft 7in</item>
+    </string-array>
+    <!-- Strings used for maxheight-->
+
+    <!-- Strings used for Dosham -->
+    <string-array name="Dosham_filter_array">
+        <item>no dosham</item>
+        <item>chevva dosham</item>
+        <item>rahu-kethu dosham</item>
+        <item>kalathra dosham</item>
+        <item>kalasharpam dosham</item>
+        <item>naga dosham</item>
+    </string-array>
+    <!-- Strings used for Dosham-->
+
+    <!-- Strings used for Employment -->
+    <string-array name="Employment_filter_array">
+        <item>Any</item>
+        <item>Goverment</item>
+        <item>Private</item>
+        <item>Defence</item>
+        <item>Self Employed</item>
+        <item>Business</item>
+        <item>Not working</item>
+    </string-array>
+    <!-- Strings used for Employment-->
+
+</resources>

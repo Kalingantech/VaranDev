@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188774673379",
+    "project_id": "varan-dev",
+    "storage_bucket": "varan-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188774673379:android:8cbae8919f9a05ef794ed6",
+        "android_client_info": {
+          "package_name": "com.varandev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188774673379-kele781m5c7am5dnlddmsf34167fnq1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq9YgsapUhnWgHXWzPRKoDhEEI8sKK6P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188774673379-kele781m5c7am5dnlddmsf34167fnq1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

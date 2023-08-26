@@ -1,0 +1,85 @@
+plugins {
+    id 'com.android.application'
+    id 'com.google.gms.google-services'
+}
+
+android {
+    compileSdkVersion 32
+
+    defaultConfig {
+        applicationId "com.varandev"
+        minSdkVersion 21
+        targetSdkVersion 32
+        versionCode 5
+        versionName "5.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    buildFeatures {
+        viewBinding true
+    }
+}
+
+dependencies {
+
+    implementation 'androidx.appcompat:appcompat:1.4.1'
+    implementation 'com.google.android.material:material:1.5.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.3'
+    implementation 'com.google.firebase:firebase-auth:21.0.6'
+    //implementation 'org.jetbrains:annotations:15.0'
+    implementation 'com.google.firebase:firebase-storage:20.0.0'
+    implementation 'com.google.firebase:firebase-firestore:24.0.1'
+    implementation 'androidx.navigation:navigation-fragment:2.4.1'
+    implementation 'androidx.navigation:navigation-ui:2.4.1'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'com.google.android.gms:play-services-auth:20.2.0'
+    implementation 'com.google.android.play:core:1.10.3'
+
+    //implementation "org.jetbrains.kotlin:kotlin-stdlib:1.6.0"
+
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+
+
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+    api 'com.theartofdev.edmodo:android-image-cropper:2.8.+'
+
+    //image loader
+    implementation 'com.github.bumptech.glide:glide:4.13.0'
+    implementation 'com.squareup.picasso:picasso:2.71828'
+    implementation 'com.github.chrisbanes:PhotoView:2.3.0'
+
+    // image loader with blur options
+    implementation 'jp.wasabeef:picasso-transformations:2.1.0'
+    implementation 'jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1'
+    //image slider
+    implementation 'com.github.denzcoskun:ImageSlideshow:0.1.0'
+
+    //searchable spinner
+    implementation 'com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1'
+
+
+    //recyclerview pagin adapter
+    implementation 'androidx.recyclerview:recyclerview:1.2.1'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'com.firebaseui:firebase-ui-firestore:8.0.0'
+    implementation 'androidx.paging:paging-runtime:3.1.1'
+
+    //for firestore document size calculation (remember we have maven in repositproes
+    implementation 'com.github.alexmamo:FirestoreDocument-Android:0.1.5'
+
+
+
+}

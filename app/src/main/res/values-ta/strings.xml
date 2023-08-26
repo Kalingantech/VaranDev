@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Varan Dev</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="test">தேர்வு தமிழ்</string>
+    <string name="language">தமிழ்</string>
+    <string name="change_language">English</string>
+
+    <string name="sent">அனுப்பியது</string>
+    <string name="received">பெற்றது</string>
+
+</resources>
